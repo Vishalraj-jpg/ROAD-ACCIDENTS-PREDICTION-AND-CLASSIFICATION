@@ -1,8 +1,4 @@
 # ROAD-ACCIDENTS-PREDICTION-AND-CLASSIFICATION
-Final Year Project on Road Accident Prediction using user's Location,weather conditions by applying machine Learning concepts.
-
-# DataSet
-https://github.com/abdulwahed786/final-yr-projectqA
 
 # To Run 
 ` python main.py `
